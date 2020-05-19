@@ -5,6 +5,6 @@ public class MemberController {
         int num1 = 0;
         int num2 = 0;
 
-        System.out.println("Create mark" + (num1 + num2));
+        System.out.println("Create     mark" + (num1 + num2));
     }
 }
