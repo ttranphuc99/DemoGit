@@ -7,6 +7,8 @@ public class MemberController {
 
     public void edit() {
         System.out.println("Edit member");
+    }
+
     public void delete() {
         System.out.println("Delete member");
     }
