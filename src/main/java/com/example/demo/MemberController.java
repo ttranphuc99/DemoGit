@@ -12,4 +12,8 @@ public class MemberController {
     public void delete() {
         System.out.println("Delete member");
     }
+
+    public void getMark() {
+        System.out.println("Get mark");
+    }
 }
